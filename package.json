@@ -1,0 +1,20 @@
+{
+  "name": "coding-gigs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lest210/coding-gigs.git"
+  },
+  "author": "Lester Calderon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lest210/coding-gigs/issues"
+  },
+  "homepage": "https://github.com/lest210/coding-gigs#readme"
+}
